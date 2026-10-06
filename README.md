@@ -1,27 +1,349 @@
 # 💫 About Me:
-# 👋 Hey, I'm Abdoulkader Abdila Mohamed — aka MEKLA_BOY<br><br><div align="center"><br><br>### 🛡️ Cybersecurity Engineer | SOC Analyst | Security Enthusiast<br><br></div><br><br>---<br><br>## 👨‍💻 About Me<br><br>🛡️ I am a **Cybersecurity Engineer and SOC Analyst** with a **Master’s degree in Computer Science** and practical experience in **security monitoring, threat detection, incident response, security auditing, and penetration testing**.<br><br>🔐 During my professional experience at **Djib Data-AI Consulting EURL**, I worked with **Wazuh** and **Microsoft Sentinel** for SIEM-based monitoring, log analysis, detection rules, alerting, and incident response procedures.<br><br>🕵️ I also participated in **security audits and penetration testing of digital platforms**, applying **OWASP security practices** and **ISO 27001 principles**.<br><br>🌐 I have a strong technical background in:<br><br>- 🖥️ **SOC & SIEM**<br>- 🚨 **Threat Detection & Incident Response**<br>- 🔎 **Security Auditing & Penetration Testing**<br>- 🌐 **Network Security**<br>- 🐧 **Linux**<br>- 🛡️ **IDS/IPS**<br>- 🔍 **Vulnerability Assessment**<br>- 🧬 **Digital Forensics**<br>- 📋 **Cybersecurity Risk Management**<br><br>🎯 My goal is to contribute my technical skills to **strengthening the security and resilience of information systems and critical infrastructures in Djibouti**.<br><br>---<br><br>## ⚡ ASCII<br><br>```text<br>███╗   ███╗███████╗██╗  ██╗██╗      █████╗ <br>████╗ ████║██╔════╝██║ ██╔╝██║     ██╔══██╗<br>██╔████╔██║█████╗  █████╔╝ ██║     ███████║<br>██║╚██╔╝██║██╔══╝  ██╔═██╗ ██║     ██╔══██║<br>██║ ╚═╝ ██║███████╗██║  ██╗███████╗██║  ██║<br>╚═╝     ╚═╝╚══════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝<br><br>              M E K L A _ B O Y
 
+# 👋 Hey, I'm Abdoulkader Abdila Mohamed — aka **MEKLA_BOY**
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mekla_boy) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mekla_boy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdoulkader abdila mohamed) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gilisabdoulkader@gmail.com) 
+<div align="center">
 
-# 💻 Tech Stack:
-![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Ant](https://img.shields.io/badge/Apache%20Ant-A81C7D?style=for-the-badge&logo=Apache%20Ant&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Vitest](https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white) ![Jasmine](https://img.shields.io/badge/-Jasmine-%238A4182?style=for-the-badge&logo=Jasmine&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![AquaSec](https://img.shields.io/badge/aqua-%231904DA.svg?style=for-the-badge&logo=aqua&logoColor=#0018A8)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=mekladeveloppeur&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=mekladeveloppeur&theme=shadow_blue&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=mekladeveloppeur&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+### 🛡️ Cybersecurity Engineer | SOC Analyst | Security Operations
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mekladeveloppeur&theme=vue-dark&no-frame=false&no-bg=false&margin-w=4)
+**SIEM • Threat Detection • Incident Response • Security Audit • Pentesting**
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+🇩🇯 Djibouti | 🔐 Cybersecurity Enthusiast | 🚨 SOC Operations
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mekladeveloppeur&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
+
+## 👨‍💻 About Me
+
+🛡️ I am a **Cybersecurity Engineer and SOC Analyst** with a **Master's degree in Computer Science** and practical experience in **security monitoring, threat detection, incident response, security auditing, penetration testing, and cybersecurity governance**.
+
+🔐 During my professional experience at **Djib Data-AI Consulting EURL**, I worked with **Wazuh** and **Microsoft Sentinel** for SIEM-based monitoring, log analysis, detection rules, alerting, and incident response procedures.
+
+🕵️ I also participated in security audits and penetration testing of digital platforms, applying **OWASP security practices** and **ISO 27001 principles**.
+
+🌐 My cybersecurity focus includes:
+
+- 🛡️ Security Operations Center (SOC)
+- 📊 SIEM & Security Monitoring
+- 🚨 Threat Detection & Alert Triage
+- 🧯 Incident Response & DFIR
+- 🔎 Security Auditing & Penetration Testing
+- 🌐 Network Security
+- 🐧 Linux Security
+- 🛡️ IDS / IPS
+- 🔍 Vulnerability Assessment
+- 📋 GRC & Cybersecurity Governance
+- 📐 ISO 27001 / ISO 27005
+- 🏢 Critical Infrastructure Protection
+- 🎯 Threat Intelligence
+
+🎯 **My goal:** contribute to strengthening the security, resilience, and protection of information systems and critical infrastructures.
+
+---
+
+## ⚡ MEKLA_BOY
+
+```text
+███╗   ███╗███████╗██╗  ██╗██╗      █████╗
+████╗ ████║██╔════╝██║ ██╔╝██║     ██╔══██╗
+██╔████╔██║█████╗  █████╔╝ ██║     ███████║
+██║╚██╔╝██║██╔══╝  ██╔═██╗ ██║     ██╔══██║
+██║ ╚═╝ ██║███████╗██║  ██╗███████╗██║  ██║
+╚═╝     ╚═╝╚══════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
+
+              M E K L A _ B O Y
+```
+
+---
+
+## 🛡️ SOC Analyst Arsenal
+
+<div align="center">
+
+![Wazuh](https://img.shields.io/badge/Wazuh-SIEM-4B5563?style=for-the-badge&logo=wazuh&logoColor=white)
+![Microsoft Sentinel](https://img.shields.io/badge/Microsoft%20Sentinel-SIEM-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-Security%20Analytics-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-Security-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Wireshark](https://img.shields.io/badge/Wireshark-Network%20Analysis-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-Network%20Security-049FD9?style=for-the-badge&logo=cisco&logoColor=white)
+![GNS3](https://img.shields.io/badge/GNS3-Network%20Lab-0080FF?style=for-the-badge)
+![OpenVPN](https://img.shields.io/badge/OpenVPN-VPN-EA7E20?style=for-the-badge&logo=openvpn&logoColor=white)
+
+</div>
+
+---
+
+## 🚨 SOC Skills
+
+```text
+🛡️ SOC Operations
+████████████████████████████████████████  90%
+
+📊 SIEM / Security Monitoring
+██████████████████████████████████████░░  85%
+
+🚨 Threat Detection
+██████████████████████████████████████░░  85%
+
+🧯 Incident Response / DFIR
+████████████████████████████████████░░░░  80%
+
+🔎 Penetration Testing
+████████████████████████████████████░░░░  85%
+
+📋 GRC / ISO 27001 / ISO 27005
+████████████████████████████████████░░░░  85%
+
+🌐 Network Security
+████████████████████████████████████░░░░  80%
+
+🏢 Critical Infrastructure Security
+████████████████████████████████████░░░░  80%
+```
+
+---
+
+# 💼 Professional Experience
+
+### 🚨 SOC Engineer — Threat Monitoring & Detection
+
+**Djib Data-AI Consulting EURL · Djibouti**
+
+`September 2024 — February 2025`
+
+- 🛡️ SIEM architecture deployment
+- 📊 **Wazuh & Microsoft Sentinel**
+- 🔎 Security log analysis
+- 🚨 Detection and alerting rules
+- 🧯 Incident response procedures
+- 👥 Cybersecurity monitoring training
+
+### 🔐 Cybersecurity Consultant — Security Audit
+
+**Djib Data-AI Consulting EURL · Djibouti**
+
+`March 2025 — June 2025`
+
+- 🔎 Security audits of digital platforms
+- 🧪 Penetration testing
+- 🔍 Vulnerability assessment
+- 🌐 Application and infrastructure security analysis
+- 🛡️ OWASP security assessment
+- 📋 ISO 27001 compliance evaluation
+- 📝 Security audit reports and remediation recommendations
+- 📊 Cybersecurity risk analysis
+
+---
+
+# 🎓 Education
+
+### 🎓 Master of Computer Applications — MCA
+
+**Andhra University · India**
+
+`2023 — 2025`
+
+Focus:
+
+`Cybersecurity • Artificial Intelligence • Machine Learning • Software Engineering`
+
+### 🎓 Bachelor of Science — Computer Science
+
+**University of Djibouti**
+
+`2019 — 2022`
+
+Focus:
+
+`Algorithms • Databases • Networks • Web Development • Software Engineering`
+
+---
+
+# 📚 Cybersecurity Training Timeline
+
+## 🔥 2021 — Ethical Hacking & Cybersecurity Risk
+
+- 🔐 **Introduction to Ethical Hacking** — June 14, 2021
+- 📋 **IT and Cybersecurity Risk Management Essential Training** — November 22, 2021
+
+## 🚨 2022 — SIEM & Security Monitoring
+
+- 🛡️ **Introduction to Security Information and Event Management (SIEM)** — February 18, 2022
+- 📊 **SIEM: Event Management with Splunk Security** — July 27, 2022
+- 🔎 **Splunk for Security Analytics and Monitoring** — December 16, 2022
+
+## 🔐 2023 — Network Security & Offensive Security
+
+- 🔑 **Learning Cryptography and Network Security** — March 12, 2023
+- 🕵️ **Offensive Penetration Testing** — June 21, 2023
+- 🧪 **Security Testing Essential Training** — October 9, 2023
+
+---
+
+# 🧰 Cybersecurity Tech Stack
+
+<div align="center">
+
+### 🛡️ Security Operations
+
+![Wazuh](https://img.shields.io/badge/Wazuh-SIEM-4B5563?style=for-the-badge&logo=wazuh&logoColor=white)
+![Microsoft Sentinel](https://img.shields.io/badge/Microsoft%20Sentinel-SIEM-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-Security%20Analytics-000000?style=for-the-badge&logo=splunk&logoColor=white)
+
+### 🌐 Networking & Infrastructure
+
+![Cisco](https://img.shields.io/badge/Cisco-049FD9?style=for-the-badge&logo=cisco&logoColor=white)
+![GNS3](https://img.shields.io/badge/GNS3-0080FF?style=for-the-badge)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![OpenVPN](https://img.shields.io/badge/OpenVPN-EA7E20?style=for-the-badge&logo=openvpn&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### 🔐 Security
+
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![ISO 27001](https://img.shields.io/badge/ISO%2027001-Compliance-005A9C?style=for-the-badge)
+![ISO 27005](https://img.shields.io/badge/ISO%2027005-Risk%20Management-005A9C?style=for-the-badge)
+![Nmap](https://img.shields.io/badge/Nmap-Network%20Scanning-4D4D4D?style=for-the-badge)
+
+### 💻 Programming & Development
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+</div>
+
+---
+
+# 🧪 Featured Cybersecurity Projects
+
+### 🛡️ SIEM & SOC Monitoring
+
+**Wazuh • Microsoft Sentinel • SIEM**
+
+- Security monitoring
+- Log collection and analysis
+- Detection rules
+- Alerting
+- Threat detection
+- Incident response procedures
+
+---
+
+### 🌐 Network Security Lab
+
+**GNS3 • Cisco • Wireshark • TCP/IP • OpenVPN**
+
+- Network architecture
+- Cisco routing and switching
+- Network security
+- Traffic analysis
+- Security monitoring
+- Infrastructure protection
+
+---
+
+### 🏠 Secure Smart Home System
+
+**AI • Biometrics • Voice Control • Real-Time Monitoring**
+
+- Voice-controlled security
+- Biometric authentication
+- Real-time monitoring
+- Autonomous behavior
+- Adaptive decision-making
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+![](https://github-readme-stats.shion.dev/api?username=mekladeveloppeur&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)
+
+<br/>
+
+![](https://streak-stats.demolab.com/?user=mekladeveloppeur&theme=shadow_blue&hide_border=false)
+
+<br/>
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=mekladeveloppeur&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+![](https://github-profile-trophy.vercel.app/?username=mekladeveloppeur&theme=vue-dark&no-frame=false&no-bg=false&margin-w=4)
+
+</div>
+
+---
+
+# 🔝 Top Contributed Repo
+
+<div align="center">
+
+![](https://github-contributor-stats.vercel.app/api?username=mekladeveloppeur&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+</div>
+
+---
+
+# ✍️ Random Dev Quote
+
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
+
+---
+
+# 🌐 Socials
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-mekladeveloppeur-181717?style=for-the-badge&logo=github)](https://github.com/mekladeveloppeur)
+
+[![Instagram](https://img.shields.io/badge/Instagram-mekla__boy-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mekla_boy)
+
+[![Facebook](https://img.shields.io/badge/Facebook-mekla__boy-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/mekla_boy)
+
+[![Email](https://img.shields.io/badge/Email-gilisabdoulkader%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gilisabdoulkader@gmail.com)
+
+</div>
+
+---
+
+# 👀 Visitors
+
+<div align="center">
+
 [![](https://komarev.com/ghpvc/?username=mekladeveloppeur&icon=1&color=3)](https://visitcount.itsvg.in)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🛡️ DETECT • ANALYZE • RESPOND • SECURE
+
+**MEKLA_BOY**
+
+`Cybersecurity Engineer • SOC Analyst • Security Operations`
+
+🇩🇯 **Djibouti**
+
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
