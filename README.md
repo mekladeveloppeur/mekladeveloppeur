@@ -78,7 +78,7 @@
 
 ```text
 🛡️ SOC Operations
-████████████████████████████████████████  90%
+██████████████████████████████████████░░  90%
 
 📊 SIEM / Security Monitoring
 ██████████████████████████████████████░░  85%
@@ -96,43 +96,133 @@
 ████████████████████████████████████░░░░  85%
 
 🌐 Network Security
-████████████████████████████████████░░░░  80%
+████████████████████████████████░░░░░░░░  80%
 
 🏢 Critical Infrastructure Security
-████████████████████████████████████░░░░  80%
+████████████████████████████████░░░░░░░░  80%
 ```
 
 ---
 
 # 💼 Professional Experience
 
-### 🚨 SOC Engineer — Threat Monitoring & Detection
+## 🚨 SOC Engineer — Threat Monitoring & Detection
 
 **Djib Data-AI Consulting EURL · Djibouti**
 
 `September 2024 — February 2025`
 
-- 🛡️ SIEM architecture deployment
-- 📊 **Wazuh & Microsoft Sentinel**
-- 🔎 Security log analysis
-- 🚨 Detection and alerting rules
-- 🧯 Incident response procedures
-- 👥 Cybersecurity monitoring training
+- 🛡️ Designed and deployed **SIEM architecture**
+- 📊 Worked with **Wazuh & Microsoft Sentinel**
+- 🔎 Analyzed security logs and events
+- 🚨 Configured detection and alerting rules
+- 🧯 Implemented incident response procedures
+- 👥 Trained technical teams on cybersecurity monitoring tools
 
-### 🔐 Cybersecurity Consultant — Security Audit
+---
+
+## 🔐 Cybersecurity Consultant — Security Audit
 
 **Djib Data-AI Consulting EURL · Djibouti**
 
 `March 2025 — June 2025`
 
-- 🔎 Security audits of digital platforms
-- 🧪 Penetration testing
-- 🔍 Vulnerability assessment
-- 🌐 Application and infrastructure security analysis
-- 🛡️ OWASP security assessment
-- 📋 ISO 27001 compliance evaluation
-- 📝 Security audit reports and remediation recommendations
-- 📊 Cybersecurity risk analysis
+- 🔎 Security audit of **e-Timbre, e-Vignette & e-Enregistrement**
+- 🧪 Conducted penetration testing and vulnerability analysis
+- 🌐 Assessed application and infrastructure vulnerabilities
+- 🛡️ Evaluated security against **OWASP** practices
+- 📋 Evaluated compliance with **ISO 27001**
+- 📝 Prepared security audit reports and remediation recommendations
+- 📊 Performed risk analysis and evaluated institutional security posture
+
+---
+
+# 🚀 Projects & Technical Experience
+
+## 🏠 Secure Smart Home System
+
+**Andhra University · India**
+
+`March 2025 — August 2025`
+
+🛡️ Secure smart home system combining:
+
+- 🎙️ Voice control
+- 🔐 Biometric access control
+- 📹 Real-time monitoring
+- 🤖 Autonomous behavior
+- 🧠 Adaptive decision-making
+
+---
+
+## 🏫 School Management System
+
+**University of Djibouti · Djibouti**
+
+`February 2022 — May 2022`
+
+**Laravel • MySQL • Full-Stack Development**
+
+- 💻 Full-stack web application
+- 🗄️ Database management
+- 🔐 Authentication
+- 🔄 Complete software development lifecycle
+- 🌐 Web-based school management
+
+---
+
+## 🌐 Network & Systems Workshop
+
+**University of Djibouti · Djibouti**
+
+`February 2022 — April 2022`
+
+- 🐧 Linux
+- 🪟 Windows
+- 📱 Android
+- 🍎 iOS
+- 📂 Multi-platform file sharing
+- 🌐 Network protocols
+- 🔗 Samba implementation
+- 🖥️ Systems and network configuration
+
+---
+
+# 🎤 Conferences & Presentations
+
+### 🏠 Secure Smart Home System
+
+**Andhra University · India**
+
+`March 2025 — August 2025`
+
+Presented a secure smart home system involving:
+
+`Voice Control • Biometrics • Real-Time Monitoring • Autonomous Behavior • Adaptive Decision-Making`
+
+---
+
+### 🏫 School Management System
+
+**University of Djibouti · Djibouti**
+
+`February 2022 — May 2022`
+
+Presented a full-stack school management platform based on:
+
+`Laravel • MySQL • Authentication • Database Management`
+
+---
+
+### 🌐 Network & Systems Workshop
+
+**University of Djibouti · Djibouti**
+
+`February 2022 — April 2022`
+
+Practical work covering:
+
+`Linux • Windows • Android • iOS • Samba • Network Protocols`
 
 ---
 
@@ -226,12 +316,12 @@ Focus:
 
 **Wazuh • Microsoft Sentinel • SIEM**
 
-- Security monitoring
-- Log collection and analysis
-- Detection rules
-- Alerting
-- Threat detection
-- Incident response procedures
+- 🔎 Security monitoring
+- 📋 Log collection and analysis
+- 🚨 Detection rules
+- 🔔 Alerting
+- 🎯 Threat detection
+- 🧯 Incident response procedures
 
 ---
 
@@ -239,12 +329,12 @@ Focus:
 
 **GNS3 • Cisco • Wireshark • TCP/IP • OpenVPN**
 
-- Network architecture
-- Cisco routing and switching
-- Network security
-- Traffic analysis
-- Security monitoring
-- Infrastructure protection
+- 🌐 Network architecture
+- 🔀 Cisco routing and switching
+- 🛡️ Network security
+- 📡 Traffic analysis
+- 🔎 Security monitoring
+- 🏢 Infrastructure protection
 
 ---
 
@@ -252,11 +342,11 @@ Focus:
 
 **AI • Biometrics • Voice Control • Real-Time Monitoring**
 
-- Voice-controlled security
-- Biometric authentication
-- Real-time monitoring
-- Autonomous behavior
-- Adaptive decision-making
+- 🎙️ Voice-controlled security
+- 🔐 Biometric authentication
+- 📹 Real-time monitoring
+- 🤖 Autonomous behavior
+- 🧠 Adaptive decision-making
 
 ---
 
